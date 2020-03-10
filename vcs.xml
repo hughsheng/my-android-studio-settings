@@ -146,9 +146,25 @@
           <option name="url" value="https://github.com/hughsheng/verge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://yangyx@172.62.10.5.12:10010/r/Smart_Factory_APP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://yangyx@172.10.5.12:10010/r/Smart_Factory_APP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://yangyx@172.10.5.12:10010/r/Smart_Factory_APP_Refactoring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JessYanCoding/MVPArmsTemplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\workPlace" />
+    <option name="cloneParentDir" value="E:\github" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
