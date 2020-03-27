@@ -22,15 +22,6 @@
   </GroovyCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
-    <option name="IMPORT_LAYOUT_TABLE">
-      <value>
-        <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="true" />
-      </value>
-    </option>
     <option name="JD_ALIGN_PARAM_COMMENTS" value="false" />
     <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
     <option name="JD_P_AT_EMPTY_LINES" value="false" />
