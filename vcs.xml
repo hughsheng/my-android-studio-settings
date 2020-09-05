@@ -250,9 +250,13 @@
           <option name="url" value="http://chinaguyuan.com:8999" />
           <option name="userName" value="tangli" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://chinaguyuan.com:8999/app/SPT_APP.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workplace" />
+    <option name="cloneParentDir" value="D:\workPlace" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
