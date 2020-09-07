@@ -1,10 +1,9 @@
 <templateSet group="TLnote">
-  <template name="/**" value="/**&#10; *@description:&#10; *@author：tl&#10; *@$params$: $param$&#10; *@return: $return$&#10; *@throws: &#10; */&#10;" description="方法注释" toReformat="false" toShortenFQNames="true">
-    <variable name="params" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
-    <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="/**" value="/**&#10; *@description:&#10; *@author：tl&#10; *@param: $params$&#10; *@return: $return$&#10; */" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
 </templateSet>
