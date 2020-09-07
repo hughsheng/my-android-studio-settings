@@ -1,5 +1,5 @@
 <templateSet group="TLnote">
-  <template name="/**" value="/**&#10; *@description:&#10; *@author：tl&#10; *@param: $params$&#10; *@return: $return$&#10; */" description="" toReformat="false" toShortenFQNames="true">
+  <template name="/*" value="/**&#10; *@description:&#10; *@author：tl&#10; *@param: $params$&#10; *@return: $return$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="params" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <context>
