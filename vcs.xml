@@ -254,6 +254,10 @@
           <option name="url" value="http://chinaguyuan.com:8999/app/SPT_APP.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://chinaguyuan.com:8999/app/dear.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\workPlace" />
