@@ -322,6 +322,10 @@
           <option name="url" value="https://github.com/satriyaPhincon/CallVideo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nubomedia-vtt/kurento-room-client-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\githubproject" />
