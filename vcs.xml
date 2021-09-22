@@ -326,6 +326,10 @@
           <option name="url" value="https://github.com/nubomedia-vtt/kurento-room-client-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nubomedia-vtt/webrtcpeer-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\githubproject" />
