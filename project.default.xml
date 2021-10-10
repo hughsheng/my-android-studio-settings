@@ -1,0 +1,142 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="D:/workPrograme" value="2980704761427" />
+            <entry key="D:/workPrograme/FtThemePark4.0" value="6019456992674" />
+          </map>
+        </option>
+        <option name="projectSyncType">
+          <map>
+            <entry key="D:/git_workplace/WidgetDemo" value="PREVIEW" />
+            <entry key="D:/githubproject/Bluetooth" value="PREVIEW" />
+            <entry key="D:/githubproject/SafeKeyboard" value="PREVIEW" />
+            <entry key="D:/githubproject/Telegram" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ProjectCodeStyleConfiguration">
+        <code_scheme name="Project" version="173">
+          <Objective-C-extensions>
+            <file>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Macro" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Typedef" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Enum" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Constant" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Global" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Struct" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="FunctionPredecl" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Function" />
+            </file>
+            <class>
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Property" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Synthesize" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InitMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="StaticMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="InstanceMethod" />
+              <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
+            </class>
+            <extensions>
+              <pair source="cpp" header="h" fileNamingConvention="NONE" />
+              <pair source="c" header="h" fileNamingConvention="NONE" />
+            </extensions>
+          </Objective-C-extensions>
+        </code_scheme>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
+      <component name="PropertiesComponent">
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="android.sdk.path" value="D:/sdk" />
+        <property name="last_opened_file_path" value="D:/workPrograme/other" />
+        <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\sztangli\AppData\Roaming\Subversion</configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
