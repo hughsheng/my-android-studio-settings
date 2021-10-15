@@ -6,8 +6,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern="SDKSetting.java" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
